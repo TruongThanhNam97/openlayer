@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.660172,
+                    10.762622
+                ]
+            },
+            "properties": {
+                "city": "Ho Chi Minh city",
+                "country": "Viet Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.804817,
+                    21.028511
+                ]
+            },
+            "properties": {
+                "city": "Ha Noi city",
+                "country": "Viet Nam"
+            }
+        }
+    ]
+}
